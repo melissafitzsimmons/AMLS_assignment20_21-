@@ -68,7 +68,7 @@ n_classes = 5
 print("Shape before one-hot encoding: ", y_train.shape)
 y_train = np_utils.to_categorical(y_train, n_classes)
 y_test = np_utils.to_categorical(y_test, n_classes)
-print("Shape after one-hot encoding: ", Y_train.shape)
+print("Shape after one-hot encoding: ", y_train.shape)
 
 print('Data has been preprocessed and split into 75% training and 25% valdiation set')
 print
