@@ -13,7 +13,7 @@ In the main.py file, only the most accurate model for each task is demonstrated
 
 To run each model from preprocessing, training and testing, run the 'complete' file, e.g.'A1complete'
 
-To only run the final models, run the 'finalmodel' file, e.g.'A1finalmodel'
+If you would prefer to only run the final models, run the 'finalmodel' file, e.g.'A1finalmodel'
 
 
 Please note, running either of the A1 files will change the directory to one level up, enabling the datasets to be run
