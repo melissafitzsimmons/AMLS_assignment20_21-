@@ -9,7 +9,7 @@ Within each folder, there are 4 (A1 and A2) and 3 (B1 and B2) .ipynb files - one
 
 THe main.py file is in the folder 'pyfiles'
 
-In the main.py folder, only the most accurate model for each task is demonstrated
+In the main.py file, only the most accurate model for each task is demonstrated
 
 To run each model from preprocessing, training and testing, run the 'complete' file, e.g.'A1complete'
 
