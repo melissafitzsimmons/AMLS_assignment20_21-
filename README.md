@@ -5,7 +5,7 @@ Numpy, tqdm, pandas, os, sklearn, keras, matplotlib
 
 The project is organised into folders A1, A2, B1 and B2
 
-Within each folder, there are 4 .ipynb files - one for each method that was used to solve each task
+Within each folder, there are 4 (A1 and A2) and 3 (B1 and B2) .ipynb files - one for each method that was used to solve each task
 
 
 In the main.py folder, only the most accurate model for each task is demonstrated
